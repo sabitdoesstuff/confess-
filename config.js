@@ -1,10 +1,9 @@
 const CONFIG = {
     titleWeb: "Web title",
     introTitle: 'Dear MOON',
-    introDesc: `The Earth is inherently strange'
-    Why i always end up hurting?
-    Maybe lost in my lonely heart
-    Behind the word "love" here is affection`,
+    introDesc: `You are the best chapter in my story, the one I’ll never stop reading.'
+    In a world of constant change, your heart is the only home I need.
+    I love you, and I’m so glad it’s you`,
     btnIntro: '^^HiHi^^',
     title: 'Did i fall in love at first sight?🥰',
     desc: 'Was i smitten the moment i saw that first smile?',
